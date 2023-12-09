@@ -1,3 +1,3 @@
 # VIP-Arcitecture-example
 
-[AllScenes.pdf](https://github.com/StevenKirke/VIP-Arcitecture-example/files/13625582/AllScenes.pdf)
+![AllScenes](https://github.com/StevenKirke/VIP-Arcitecture-example/assets/33865213/0475c42d-c4cc-4d7d-b823-783fbd099e84)
